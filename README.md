@@ -1,5 +1,4 @@
 # 9siliconcs3
 
-# hi, i'm guasha citli
-# tuff ako
-# 9 - Silicon
+# NAME: Guayesha Citlalli V. Calanog
+# GRADE & SECTION: 9 - Silicon
