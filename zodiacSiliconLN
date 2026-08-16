@@ -24,4 +24,4 @@ else:
     # This will deduce the user's zodiac sign.
     Z = (BY - 1900) % 12
 
-print("Your Chinese Zodiac Sign is:", ZS[Z])
+    print("Your Chinese Zodiac Sign is:", ZS[Z])
