@@ -12,7 +12,7 @@ The canteen’s ordering process is too slow and inefficient, causing lengthy qu
 4. Such a repeated ordering process results in unsatisfied customers.
 
 # Step 3:
-[Table](Screenshot 2026-08-17 021312)
+[Table](Screenshot 2026-08-17 021312.png)
 
 # Step 4
 ```text
