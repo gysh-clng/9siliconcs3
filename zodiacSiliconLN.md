@@ -39,3 +39,11 @@ else:
     Z = (BY - 1900) % 12
     
     print("Your Chinese Zodiac Sign is:", ZS[Z])
+
+# Screenshots of outputs
+
+# Valid Input
+![Valid Input](valid_input.jpg)
+
+# Invalid Input
+![Invalid Input](invalid_input.jpg)
