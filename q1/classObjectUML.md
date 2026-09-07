@@ -9,12 +9,12 @@ This Journalist class represents a functioning journalist deployed in the real w
 
 ## Properties
 
-|    Property    | Data Type |    Description    |
-|----------------|-----------|-------------------|
-|     Name       |   String  | Journalist's name |
-|     Field      |   String  |  What they mainly cover  |
-| Written Articles | Integer  | No. of written articles |
-| Availability | Boolean | Indicates the journalist's availability |
+|    Property    | Data Type | Visibility | Description    |
+|----------------|-----------|--------|-------------------|
+|     Name       |   String  | Public | Journalist's name |
+|     Field      |   String  | Public |  What they mainly cover  |
+| Articles Written | Integer  | Public | No. of written articles |
+| Availability | Boolean | Private | Indicates the journalist's availability |
 
 ## Methods
 
