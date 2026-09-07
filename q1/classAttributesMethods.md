@@ -10,12 +10,12 @@ The original class is a Journalist with the attributes Name, Field, Availability
 
 ## Visibility Decisions
 
-| Attribute | Data Type | Visibility | Reason |
+| Property | Data Type | Visibility | Description |
 |---|---|---|---|
-| Name | string | Public (+) | The journalist's name can be accessed to identify the object. |
-| Field | string | Public (+) | The journalist's field can be accessed and changed when needed. |
-| Availability | boolean | Public (+) | The journalist's availability can be checked directly. |
-| writtenArticles | int | Private (-) | The number of written articles is kept private to prevent direct modification from outside the class. |
+| Name | string | Public (+) | Journalist's name |
+| Field | string | Public (+) | What they mainly cover |
+| Availability | boolean | Public (+) | Indicates the journalist's availability |
+| writtenArticles | int | Private (-) | No. of written articles |
 
 ## Updated UML Class Diagram
 
