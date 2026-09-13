@@ -14,3 +14,4 @@
 - [ILA 3-1: Applying the Four Pillars of OOP](q1/ila_oop.md)
 - [SG4 - Understanding Classes and Objects](q1/classObjectUML.md)
 - [OOP Seed System (Part 2)](q1/classAttributesMethods.md)
+- [OOPAct (Part 3)](q1/classRelationships.md)
