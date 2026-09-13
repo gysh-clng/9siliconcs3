@@ -18,7 +18,7 @@ In this code, A Journalist can have zero or more Articles. The Journalist class 
 [View Python Source](classRelationships.py)
 
 ## Test Run
-[Relationship Test Run](images/testrun.png)
+![Relationship Test Run](images/testrun.png)
 
 ## Object Relationship Diagram
 ![Object Relationship Diagram](images/pbjectduagram.png)
