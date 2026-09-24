@@ -34,3 +34,17 @@ Explanation: The Journalist and Article classes have an aggregtion relationship 
 
 ## Reflection
 Answers:
+### 1. Why did you choose your inheritance relationship?
+I chose inheritance because a CampusJournalist is a type of Journalist, so it shares the same characteristics and behaviors of the Journalist class. The only difference is that a CampusJournalist serves the student body and not the general masses. A CampusJournalist can use the attributes and methods already defined in the Journalist class while also having its own attribute, which is Campus. This makes inheritance appropriate because the child class is an IS-A type of the parent.
+
+### 2. How did inheritance reduce duplicate code?
+Inheritance reduces duplicate code because I didn't have to rewrite the attributes and methods of the Journalist class inside CampusJournalist. The latter class can inherit the available features from Journalist, and add the information that is solely specific to campus journalism. This makes the code more efficient and organized.
+
+### 3. Why is your HAS-A relationship Composition or Aggregation?
+My Journalist-Article classes relationshop is Aggregation since the Article objects can exist independently from the Journalist object. The Article objects are made separately and then added to the Journalist's `articles` list by utilizng `addArticle()`. Therefore, if the Journalist object is removed, then the Article objects can still independently exist.
+
+### 4. What is the difference between Association from Part III and the advanced relationship you implemented?
+The Association relationship in Part III described the correlation between Journalist and Article, where one Journalist can be connected with zero or more Articles. In this new activity, the relationship is further identified as Aggregation as the Article objects can exist independently and are connected to the Journalist as contained objects. Aggregation gives it more information about the lifecycle and ownership of the objects than the genersl Association relationship.
+
+### 5. How does your design follow the DRY principle? 
+My design follows the DRY principle by using inheritance instead of rewriting the same features found in Journalist into CampusJournalist. The common attributes and methods are defined once in the Journalist class and inherited by CampusJournalist. This makes the program easier to maintain since changes to shared parent class behavior do not adhere to duplication in the child class. 
