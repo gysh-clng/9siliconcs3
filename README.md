@@ -15,3 +15,4 @@
 - [SG4 - Understanding Classes and Objects](q1/classObjectUML.md)
 - [OOP Seed System (Part 2)](q1/classAttributesMethods.md)
 - [OOPAct (Part 3)](q1/classRelationships.md)
+- [OOPAct (Part 4)](q1/advancedRelationships.md)
