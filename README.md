@@ -16,3 +16,6 @@
 - [OOP Seed System (Part 2)](q1/classAttributesMethods.md)
 - [OOPAct (Part 3)](q1/classRelationships.md)
 - [OOPAct (Part 4)](q1/advancedRelationships.md)
+
+## Quarter 2 Activities
+- [Study Guide 8 – Encapsulation](q2/sg8_encapsulation.py)
