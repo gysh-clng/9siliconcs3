@@ -28,7 +28,7 @@ class BankAccount:
         return self.__balance
 
 a1 = BankAccount(12345, 1000) # Makes BankAccount object
-a1.set_account_number(12345) # Upfates account number
+a1.set_account_number(12345) # Updates account number
 
 # Displays account information
 print("Account 1")
