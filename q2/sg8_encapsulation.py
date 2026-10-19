@@ -34,10 +34,10 @@ a1.set_account_number(12345) # Updates account number
 print("Account 1")
 print("Account Number:", a1.account_number)
 print(f"Balance: {a1.balance:.2f}")
-print()
+print("")
 # Tries to change balance to negative value
 print("Update balance to -100")
 a1.set_balance(-100)
 # Displays retained account information after the attempted update
-print("Account Number:", a1.account_number)
-print(f"Balance: {a1.balance:.2f}")
+print("Account Number:", a1.account_number) # Displays the account number again
+print(f"Balance: {a1.balance:.2f}") # Prints retained balance
