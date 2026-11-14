@@ -21,3 +21,5 @@
 - [Study Guide 8 – Encapsulation](q2/sg8_encapsulation.py)
 - [Study Guide 9 - Inheritance](q2/sg9_inheritance.py)
 - [Study Guide 10 - Method Overriding](q2/sg10_methodoverriding.py)
+- [Study Guide 11 - Polymorphism](q2/sg11_polymorphism_activity1.py)
+- [Study Guide 11 - Polymorphism](q2/sg11_polymorphism_activity2.py)
